@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rumanddd&label=Profile%20views&color=0e75b6&style=flat" alt="rumanddd" /> </p>
 
+- 🔭 I’m currently working on **a mobile app**
+
 - 🌱 I’m currently learning **Swift and Java**
 
 - 📫 How to reach me **rumanddd@gmail.com**
