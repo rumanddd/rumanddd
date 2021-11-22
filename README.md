@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rumanddd&label=Profile%20views&color=0e75b6&style=flat" alt="rumanddd" /> </p>
 
-- 🔭 I’m currently working on **a mobile app**
+- 🔭 I’m currently working on: **a mobile app**
 
-- 🌱 I’m currently learning **Swift and Java**
+- 🌱 I’m currently learning: **Swift and Java**
 
 - 📫 How to reach me **rumanddd@gmail.com**
 
-- 📄 Know about my experiences <br>
+- 📄 Know about my experiences:
 I'm a Junior Mobile App Developer for both IOS and Android, I finished my high degree course the 18-11-2021 from ITMD Alicante and started developing more skills and building random quirky projects since then until I have a Career Plan. 
 
 <h3 align="left">Connect with me:</h3>
