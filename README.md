@@ -10,7 +10,7 @@
 - 📫 How to reach me: **rumanddd@gmail.com**
 
 - 📄 Know about my experiences:
-I'm a Junior Mobile App Developer for both IOS and Android, I finished my high degree course the 18-11-2021 from ITMD Alicante and started developing more skills and building random quirky projects since then until I have a Career Plan. 
+I'm a Junior Mobile App Developer for both IOS and Android, I finished my high degree course the 18-11-2021 from ITMD Alicante and also a troubleshooter for Windows OS and MacOS and mobile devices hardware and software... I've been troubleshooting and fixing problems with computers and mobile devices for 8+ years.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
