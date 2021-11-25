@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on a buisness where services and jobs for Programmers and people in the tech company have an easier way of finding work and getting employed.
 
-- 🌱 I’m currently learning **Swift and Java.**
+- 🌱 I’m currently learning **Python and React**
 
-- 📖 Currently I know *Swift, Java, HTML, CSS and JavaScript* as part of my programming.
+- 📖 Currently I know **Swift, Java, HTML, CSS and JavaScript** as part of my programming.
 
 - 👯 I’m looking to collaborate on any projects involving **Java or Swift for mobile apps or Webstie Development using HTML, CSS or JavaScript.**
 
