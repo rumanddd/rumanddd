@@ -9,13 +9,15 @@
 
 - 🌱 I’m currently learning **Swift and Java**
 
-- 👯 I’m looking to collaborate on **any projects involving Java or Swift for mobile apps.**
+- 📖 Currently I know Swift, Java, HTML, CSS and JavaScript as programming
 
-- 👨‍💻 All of my projects are available at [https://github.com/rumanddd](https://github.com/rumanddd)
+- 👯 I’m looking to collaborate on **any projects involving Java or Swift for mobile apps or Webstie Development using HTML, CSS or JavaScript**
+
+- 👨‍💻 All of my projects are available here at [https://github.com/rumanddd](https://github.com/rumanddd)
 
 - 📫 You can reach me at: **rumanddd@gmail.com**
 
-- 📄 I'm a Junior Mobile App Developer for both IOS and Android, I finished my high degree course the 18-11-2021 from ITMD Alicante and also a troubleshooter for Windows OS and MacOS and mobile devices hardware and software... I've been troubleshooting and fixing problems with computers and mobile devices for 8+ years. 
+- 📄 I'm a Junior Mobile App Developer for both IOS and Android, I finished my high degree course the 18-11-2021 from ITMD Alicante and also a troubleshooter for Windows OS and MacOS and mobile devices hardware and software... I've been troubleshooting and fixing problems with computers and mobile devices for 8+ years. I speak both English and Spanish fluently and am in the process of learning French and Mandarin.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
