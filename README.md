@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/rumanddd" target="blank"><img src="https://img.shields.io/twitter/follow/rumanddd?logo=twitter&style=for-the-badge" alt="rumanddd" /></a> </p>
 
-- 🔭 I’m currently working on **a very special mobile app 😉.**
+- 🔭 I’m currently working on **a buisness where services and jobs for Programmers and people in the tech company have an easier way of finding work and getting employed.**
 
-- 🌱 I’m currently learning **Swift and Java**
+- 🌱 I’m currently learning **Swift and Java.**
 
-- 📖 Currently I know Swift, Java, HTML, CSS and JavaScript as programming
+- 📖 Currently I know *Swift, Java, HTML, CSS and JavaScript* as part of my programming.
 
-- 👯 I’m looking to collaborate on **any projects involving Java or Swift for mobile apps or Webstie Development using HTML, CSS or JavaScript**
+- 👯 I’m looking to collaborate on any projects involving **Java or Swift for mobile apps or Webstie Development using HTML, CSS or JavaScript.**
 
-- 👨‍💻 All of my projects are available here at [https://github.com/rumanddd](https://github.com/rumanddd)
+- 👨‍💻 All of my projects are available here at [https://github.com/rumanddd](https://github.com/rumanddd).
 
 - 📫 You can reach me at: **rumanddd@gmail.com**
 
