@@ -11,7 +11,7 @@
 
 - 📖 Currently I know **Swift, Java, HTML, CSS and JavaScript** as part of my programming.
 
-- 👯 I’m looking to collaborate on any projects involving **Java or Swift for mobile apps or Webstie Development using HTML, CSS or JavaScript.**
+- 🖥️ I’m looking to collaborate on any projects involving **Java or Swift for mobile apps or Webstie Development using HTML, CSS or JavaScript.**
 
 - 👨‍💻 All of my projects are available here at **[https://github.com/rumanddd](https://github.com/rumanddd).**
 
