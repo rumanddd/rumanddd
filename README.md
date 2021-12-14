@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rumanddd&label=Profile%20views&color=0e75b6&style=flat" alt="rumanddd" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rumanddd" target="blank"><img src="https://img.shields.io/twitter/follow/rumanddd?logo=twitter&style=for-the-badge" alt="rumanddd" /></a> </p>
+<p align="left"> <a href="https://twitter.com/rumanddd" target=”_blank”><img src="https://img.shields.io/twitter/follow/rumanddd?logo=twitter&style=for-the-badge" alt="rumanddd" /></a> </p>
 
 - 🔭 I’m currently working on a buisness where services and jobs for Programmers and people in the tech company have an easier way of finding work and getting employed.
 
