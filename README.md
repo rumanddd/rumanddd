@@ -20,7 +20,7 @@
 
 📬 **Reach me at:** [rumanddd@gmail.com](mailto:rumanddd@gmail.com)  
 
-<img src="https://github-profile-trophy.vercel.app/?username=rumanddd&no-frame=true&rank=-C,-B&column=-1&no-bg=true&theme=darkhub" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=rumanddd&no-frame=true&rank=-?&column=-1&no-bg=true&theme=darkhub" alt="GitHub Trophies" />
 
 ---
 
