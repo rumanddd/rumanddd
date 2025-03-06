@@ -1,32 +1,56 @@
 <h1 align="center">Hi 👋, I'm Ruman Dhaliwal</h1>
-<h3 align="center">A junior mobile app developer from London</h3>
+<h3 align="center">🌐 Web Developer | iOS Engineer | Tech Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rumanddd&label=Profile%20views&color=0e75b6&style=flat" alt="rumanddd" /> </p>
-
-<p align="left"> <a href="https://twitter.com/rumanddd" target=__blank><img src="https://img.shields.io/twitter/follow/rumanddd?logo=twitter&style=for-the-badge" alt="rumanddd" /></a> </p>
-
-- 🔭 I’m currently working on a buisness where services and jobs for Programmers and people in the tech company have an easier way of finding work and getting employed.
-
-- 🌱 I’m currently learning **Python and React**
-
-- 📖 Currently I know **Swift, Java, HTML, CSS and JavaScript** as part of my programming.
-
-- 🖥️ I’m looking to collaborate on any projects involving **Java or Swift for mobile apps or Webstie Development using HTML, CSS or JavaScript.**
-
-- 👨‍💻 All of my projects are available here at **[https://github.com/rumanddd](https://github.com/rumanddd).**
-
-- 📫 You can reach me at: **rumanddd@gmail.com**
-
-- 📄 I'm a Junior Mobile App Developer for both IOS and Android, I finished my high degree course the 18-11-2021 from ITMD Alicante and also a troubleshooter for Windows OS and MacOS and mobile devices hardware and software... I've been troubleshooting and fixing problems with computers and mobile devices for 8+ years. I speak both English and Spanish fluently and am in the process of learning French and Mandarin.
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rumanddd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rumanddd" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/rumanddd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruman dhaliwal" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/12554999/rumanddd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rumanddd" height="30" width="40" /></a>
+<p align="center">
+  Passionate about crafting digital experiences, whether through sleek websites, intuitive mobile apps, or cutting-edge software solutions.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rumanddd&show_icons=true&theme=nightowl&locale=en" alt="rumanddd" /></p>
+### 🚀 About Me  
+
+- 🎥 **Freelance Video Editor** | Exploring new opportunities in **Marketing & Software Engineering**  
+- 💻 Currently **learning Python** with prior knowledge of **HTML, CSS, JavaScript, and Swift**  
+- 🛠️ **8+ years** of experience troubleshooting **Windows, macOS, and mobile devices (hardware & software)**  
+- 🌎 Fluent in **English & Spanish**, intermediate in **French**, and some basic **Russian**  
+
+📬 **Reach me at:** [rumanddd@gmail.com](mailto:rumanddd@gmail.com)  
+
+<img src="https://github-profile-trophy.vercel.app/?username=rumanddd&no-frame=true&rank=-C,-B&column=-1&no-bg=true&theme=darkhub" alt="GitHub Trophies" />
+
+---
+
+### 📌 Connect With Me  
+<p align="left">
+  <a href="https://www.linkedin.com/in/rumanddd/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
+  </a>
+</p>
+
+---
+
+### 🛠️ Tech Stack & Tools  
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="100">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="100">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="100">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="100">
+</p>
+
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rumanddd&layout=compact&theme=nightowl" alt="Top Languages" />
+  <br></br>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rumanddd&theme=transparent" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rumanddd&theme=github-dark" alt="GitHub Activity Graph" />                   
+</p>
