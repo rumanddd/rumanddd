@@ -14,9 +14,10 @@
 ### 🚀 About Me  
 
 - 🎥 **Freelance Video Editor** | Exploring new opportunities in **Marketing & Software Engineering**  
-- 💻 Currently **learning Python** with prior knowledge of **HTML, CSS, JavaScript, and Swift**  
+- 💻 Currently building websites using **HTML, CSS, JavaScript** and searching for a front-end developer job!
 - 🛠️ **8+ years** of experience troubleshooting **Windows, macOS, and mobile devices (hardware & software)**  
-- 🌎 Fluent in **English & Spanish**, intermediate in **French**, and some basic **Russian**  
+- 🌎 Fluent in **English & Spanish**, intermediate in **French**, and learning **Russian**
+- 🧠 Building an online brand and a business alone while studying e-commerce, marketing and sales.
 
 📬 **Reach me at:** [rumanddd@gmail.com](mailto:rumanddd@gmail.com)  
 
