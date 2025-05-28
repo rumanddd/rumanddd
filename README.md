@@ -46,7 +46,7 @@
   <img src="[https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4] width="100">
   -->
   
-  <img src="https://skillicons.dev/icons?i=androidstudio,discord,notion,vscode,webstorm,git,github,javascript,apple,html,css,swift" width="1000">
+  <img src="https://skillicons.dev/icons?i=html,css,js,swift,discord,notion,vscode,webstorm,androidstudio,git,github,apple&perline=4" width="300">
 </p>
 
 
