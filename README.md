@@ -24,7 +24,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=rumanddd&no-frame=true&rank=-?&column=-1&no-bg=true&theme=darkhub" alt="GitHub Trophies" />
 
 ---
-
+<!--
 ### 📌 Connect With Me  
 <p align="left">
   <a href="https://www.linkedin.com/in/rumanddd/" target="_blank">
@@ -33,6 +33,8 @@
 </p>
 
 ---
+
+-->
 
 ### 🛠️ Tech Stack & Tools  
 <p align="left">
