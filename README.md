@@ -57,7 +57,7 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rumanddd&layout=compact&theme=nightowl" alt="Top Languages" />
+  <img align="center" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width='100' alt="Top Languages" />
   <br></br>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rumanddd&theme=transparent" alt="GitHub Streak" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rumanddd&theme=github-dark" alt="GitHub Activity Graph" />                   
