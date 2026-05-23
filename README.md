@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ruman Dhaliwal</h1>
-<h3 align="center">🌐 Web Developer | iOS Engineer | Tech Enthusiast</h3>
+<h3 align="center">🌐 Junior Python Developer | Junior AI Tech </h3>
 
 <p align="center">
-  Passionate about crafting digital experiences, whether through sleek websites, intuitive mobile apps, or cutting-edge software solutions.
+  Curerntly learning Pythong through FCC to work on AI and set-up automation for business in need.
 </p>
 
 <div align="center">
