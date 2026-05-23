@@ -6,7 +6,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github.com/rumanddd/assets/blob/main/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc-ezgif.com-gif-maker.gif" width="600" />/>
+  <img src="https://github.com/rumanddd/assets/blob/main/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc-ezgif.com-gif-maker.gif" width="600" />
 </div>
 
 ### 🚀 About Me  
