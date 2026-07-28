@@ -2,7 +2,7 @@
 <h3 align="center">🌐 Junior Python Developer | Junior AI Tech </h3>
 
 <p align="center">
-  Curerntly learning Pythong through FCC to work on AI and set-up automation for business in need.
+  Currently learning Python through FCC to work on AI and set-up automation for business in need.
 </p>
 
 <div align="center">
