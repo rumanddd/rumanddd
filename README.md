@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ruman Dhaliwal</h1>
-<h3 align="center">🌐 Junior Python Developer | Junior AI Tech </h3>
+<h3 align="center">🌐 Web Design | Junior AI Automater </h3>
 
 <p align="center">
-  Currently learning Python through FCC to work on AI and set-up automation for businesses in need.
+  Web Design and AI Automation for businesses and helping them modernise.
 </p>
 
 <div align="center">
